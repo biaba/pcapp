@@ -1,0 +1,29 @@
+
+
+Application for making PC part requests
+
+Used technologies:
+- Java 1.8.0_221
+- Spring framework 5.0.2.
+- Hibernate 5.2.16.Final
+- MySql 8.0
+- Maven 3.6.1
+- Tomcat 9.0
+- Eclipse 2019-03 (4.11.0)
+
+Database scripts provided in sql_scripts folder
+
+Description of application:
+Applicant is able to:
+- make a new request;
+- edit the existing one (if saved for later)
+
+Additional functions to manager:
+- view all requests
+- view single request
+- change request status (from submitted to completed)
+
+Additional functions for admin:
+- view all users
+- view single user
+- delete user
